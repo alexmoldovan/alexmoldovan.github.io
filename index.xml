@@ -6,8 +6,18 @@
     <description>Recent content on alexmoldovan.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2016 10:26:55 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jul 2016 15:30:47 +0300</lastBuildDate>
     <atom:link href="https://alexmoldovan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>second post</title>
+      <link>https://alexmoldovan.github.io/post/second-post/</link>
+      <pubDate>Sun, 24 Jul 2016 15:30:47 +0300</pubDate>
+      
+      <guid>https://alexmoldovan.github.io/post/second-post/</guid>
+      <description>&lt;p&gt;inside second post&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>first post</title>
